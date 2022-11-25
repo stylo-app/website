@@ -1,2 +1,2 @@
-# [https://stylo-app.com](https://stylo-app.com)
+# [https://stylo-app.github.io/website/](https://stylo-app.github.io/website/)
 ## repo for stylo's website
